@@ -21,3 +21,7 @@ void main() {
     ),
   );
 }
+
+//İcon ekleme : nette hazır sitelerden icon dosyaları oluşturulur örn appicon.co
+//Sonrasında android için siteden oluşturduğumuz mipmap dosyaları android/app/src/res içerisindeki mipmap dosyaları ile yer değiştirilir
+//Iphone için ios/Runner içerisindeki Assets.xcassets dosyasıyla yine siteden oluşturduğumuz Assets.xcassets dosyası yer değiştirilir.
