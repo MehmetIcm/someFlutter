@@ -8,3 +8,4 @@ Bu widgetların kendi içerisinde özellikleri vardır. Renk, stil, ek özellikl
 En popüleri olan material kütüphanesinden alınan Scaffold, AppBar, Image vs. widgetları kullanarak uygulama oluşturabiliriz
 Örneğin Scaffold widgetı içerisindeki appbar kısmına bir AppBar yani başlık widget'ı, body kısmına bir Text ya da Image widget'ı, bottomNavigationBar kısmına ise bir IconButton ekleyebiliriz
 
+![image](https://user-images.githubusercontent.com/44260512/120844473-18ef1080-c578-11eb-8976-1b831b43e062.png)
